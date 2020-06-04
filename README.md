@@ -11,7 +11,7 @@ License: GPL v2 or later<br/>
 
 
 ### Description
-This plugins use for your website speed improvement and decrease your page request. When you have used contact form 7 and insert you Google Captcha( v3 ) after this plugin active. When a user scrolls the page , then loading google captcha code. This plugin based on "cf7-lazyload-google-recaptcha" by amit648.
+This plugins use for your website speed improvement and decrease your page request. When you have used contact form 7 and insert you Google Captcha( v3 ) after this plugin active. Get Google ReCaptcha code after the page is completely loaded. Fire on focus or scroll through javascript.
 
 
 ### Usage 

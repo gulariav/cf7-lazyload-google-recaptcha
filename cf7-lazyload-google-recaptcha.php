@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: CF7 Lazyload Google Recaptcha
-Description: Get google captcha code after the page is completed loaded, on focus through javascript or on scoll. 
+Description: Get Google ReCaptcha code after the page is completely loaded. Fire on focus or scroll through javascript.
 Plugin URI: https://github.com/gulariav/cf7-lazyload-google-recaptcha
 Author: Vishal Gularia
 Author URI: https://github.com/gulariav/
