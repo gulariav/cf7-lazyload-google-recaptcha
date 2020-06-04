@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: gulariav
 Requires at least: 3.5
-Tested up to: 5.0.3
+Tested up to: 5.4.1
 License: GPLv2 or later
 
 == Description ==
@@ -35,11 +35,4 @@ After you have installed the plugin, This is working in whole site:
 
 == Changelog ==
 
-= 1.0.3 =
-* Added support for both on fucus as well as onscroll. 
-
-= 1.0.2 =
-* Add class and change load from scroll to onfocus. 
-
-= 1.0.1 =
-* Initial Release
+Refer to changelog.txt.

@@ -1,0 +1,12 @@
+========================
+Changelog
+========================
+
+= 1.0.3 =
+Added support for both on fucus as well as onscroll. 
+
+= 1.0.2 =
+Add class and change load from scroll to onfocus. 
+
+= 1.0.1 =
+Initial Release
