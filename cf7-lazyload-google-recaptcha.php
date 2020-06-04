@@ -2,9 +2,9 @@
 /*
 Plugin Name: CF7 Lazyload Google Recaptcha
 Description: Get google captcha code after the page is completed loaded, on focus through javascript or on scoll. 
-Plugin URI: http://github.com/gulariav/
+Plugin URI: https://github.com/gulariav/cf7-lazyload-google-recaptcha
 Author: Vishal Gularia
-Author URI: http://github.com/gulariav/
+Author URI: https://github.com/gulariav/
 Requires at least: 3.5
 Tested up to: 5.4.1
 Version: 1.0.3

@@ -11,17 +11,21 @@ License: GPL v2 or later<br/>
 
 
 ### Description
-Lazyloading Google Recaptcha for Contact form 7
+This plugins use for your website speed improvement and decrease your page request. When you have used contact form 7 and insert you Google Captcha( v3 ) after this plugin active. When a user scrolls the page , then loading google captcha code. This plugin based on "cf7-lazyload-google-recaptcha" by amit648.
 
 
-### Settings 
+### Usage 
+
+**How to use this plugin?**
 
 Call ReCaptcha on scroll by default. Add class "fire-recaptcha-onfocus" to any required field on the forms above the fold.
 
+Note: This plugin required integration with Google Recaptcha, so first add ReCaptcha keys.
+
 
 ### Settings 
 
-No Settings to configure, just install and run automatically.
+No Settings to configure, just install and run automatically. 
 
 
 ### Installation  
